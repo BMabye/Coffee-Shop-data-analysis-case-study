@@ -1,0 +1,8 @@
+﻿;;SALES PER PRODUCT CATEGORY;;;;;;;;
+Count of REVENUE;Column Labels;;;;;;;;;
+Row Labels;Bakery;Branded;Coffee;Coffee beans;Drinking Chocolate;Flavours;Loose Tea;Packaged Chocolate;Tea;Grand Total
+Jun;;;;;;;;;;
+AFTERNOON;1169;39;3491;69;691;260;47;24;2621;8411
+EVENING;1035;32;3095;65;602;213;56;14;2297;7409
+MORNING;2996;112;7287;263;1388;1139;194;71;5701;19151
+Grand Total;5200;183;13873;397;2681;1612;297;109;10619;34971
